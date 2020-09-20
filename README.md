@@ -1,1 +1,1 @@
-＃ARテストkuma/115.github.io
+＃kuma115.github.io
